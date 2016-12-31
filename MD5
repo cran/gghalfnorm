@@ -1,0 +1,8 @@
+02cbe4f6c065f58bbcb3a1b8708fd06e *DESCRIPTION
+7dfaa7fa0c7641e7fd3701a39d8cf9ee *LICENSE
+a65c80b1a37e892f7f7c3ce2f652a99e *NAMESPACE
+3f54cd6418ee8d78be032beb0320a88b *R/gghalfnorm.R
+630d4f2dcca54befe42964e513f89d99 *README.md
+1c97307aeb9ec8964a57971d253a8325 *man/gghalfnorm.Rd
+5f2d603ef6726e6da40672726034b31a *tests/testthat.R
+c9b5760949f51d8794ec4b3e43ec1100 *tests/testthat/test-gghalfnorm.R
