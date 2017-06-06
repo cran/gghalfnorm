@@ -1,8 +1,9 @@
-02cbe4f6c065f58bbcb3a1b8708fd06e *DESCRIPTION
-7dfaa7fa0c7641e7fd3701a39d8cf9ee *LICENSE
+bf12b5ea340d1098ecab4eb1272ddfcb *DESCRIPTION
 a65c80b1a37e892f7f7c3ce2f652a99e *NAMESPACE
 3f54cd6418ee8d78be032beb0320a88b *R/gghalfnorm.R
-630d4f2dcca54befe42964e513f89d99 *README.md
-1c97307aeb9ec8964a57971d253a8325 *man/gghalfnorm.Rd
+f2dee5e3ce441e8f90739c264a5bcd14 *README.md
+4d5e9f288bce44dc56b0983275bf3db0 *man/gghalfnorm.Rd
 5f2d603ef6726e6da40672726034b31a *tests/testthat.R
 c9b5760949f51d8794ec4b3e43ec1100 *tests/testthat/test-gghalfnorm.R
+28e8777fc3710aed444754531efcf303 *tools/images/README-non_repel-1.png
+9095a32a559374e68e719144146950ee *tools/images/README-repel-1.png
